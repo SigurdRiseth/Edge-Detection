@@ -2,6 +2,8 @@
 
 This project implements edge detection and diffusion using the Perona-Malik diffusion algorithm and displays the process through visualizations.
 
+This project was part of the grading in IMAG2024 - Mathematics for engineering 2D, and resulted in the report in the repository.
+
 ## Overview
 
 The Perona-Malik algorithm is a method for edge detection and image denoising that utilizes anisotropic diffusion. This project demonstrates the application of this algorithm on a grayscale image to enhance edges while reducing noise.
